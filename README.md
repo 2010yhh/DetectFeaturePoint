@@ -1,2 +1,6 @@
 # DetectFeaturePoint
 Opencv下利用SIFT、SURF、ORB三种特征点实现图像匹配
+
+1.release下的exe可以直接运行
+
+2.opencv程序如果不能运行，可以直接把你的exe程序和安装的opencv路径下的相关的dll和exe放在一起就行了
